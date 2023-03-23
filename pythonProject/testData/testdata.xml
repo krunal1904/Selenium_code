@@ -1,0 +1,11 @@
+<TestwebucatorApp>
+
+    <URL>https://www.webucator.com/</URL>
+    <title>Online and Onsite Instructor-led Training Classes | Webucator</title>
+    <email>test@test.com</email>
+    <password>password</password>
+    <error>The e-mail address and/or password you specified are not correct.</error>
+    <headermenu>Documentation,Kubernetes Blog,Training,Partners,Community,Case Studies,Versions,English</headermenu>
+    <header>Products,Developers,Pricing,Blog,About Us,Partners,Sign In,Get Started</header>
+
+</TestwebucatorApp>
